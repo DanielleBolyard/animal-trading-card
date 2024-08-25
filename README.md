@@ -9,7 +9,7 @@ Displays an image of an Orca.
 Includes basic information about the Orca, such as habitat, diet, and interesting facts.
 Technologies Used
 HTML5: Structure of the trading card.
-CSS3: Styling for layout and design.
+CSS: Styling for layout and design.
 How to View
 Clone or download the repository.
 Open the index.html file in a web browser to view the trading card.
